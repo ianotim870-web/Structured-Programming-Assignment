@@ -4,6 +4,8 @@
 Source: Deitel & Deitel , How to program,9th edition, Chapter 2, Excersise 2.9a)
 
 What the program does: The program displays the message "God is Great" on the screen
+
+
 Concepts used : printf()
 
 How it works: My program starts then displays the message "God is Great" using printf()
