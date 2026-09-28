@@ -12,6 +12,8 @@ How it works: My program starts then displays the message "God is Great" using p
 
 ##Exercise 2-Input-process-output
 
+
+
 Source: Deitel & Deitel, How to program, 9th edition, Chapter 2, Exercise 2.4
 
 What the program does: My program calculates the air ticket fare based on distance travelled
@@ -23,6 +25,8 @@ How it works: It asks  the user for the destination and travel distance then mul
 
 
 ##Exercise 3-Decision 
+
+
 Source: Deitel & Deitel, How to program,9th edition,Chapter 2, Excersise 2.9a) to d
 
 What the program does: My program compares the husband's age with that of the wife and then displays the age difference if the husband is older.
@@ -34,6 +38,8 @@ How it works: It asks for the husband's and wife's age then checks if he's older
 
 
 ##Exercise 4- Basic loop
+
+
 
 Source: Deitel & Deitel , How to program,9th edition, Chapter 3, Excersise 3.7
 
